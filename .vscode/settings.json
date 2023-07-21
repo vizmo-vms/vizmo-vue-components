@@ -1,0 +1,46 @@
+{
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "editor.codeActionsOnSave": [
+    "source.fixAll.eslint"
+  ],
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "vue"
+  ],
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "[javascript]": {
+    "editor.defaultFormatter": "Vue.volar"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "cSpell.words": [
+    "Atleast",
+    "buildkit",
+    "chartjs",
+    "composables",
+    "Firstname",
+    "geocoder",
+    "Konva",
+    "lastname",
+    "loglevel",
+    "ondemand",
+    "proxyflare",
+    "rrule",
+    "scim",
+    "vite"
+  ],
+  "eslint.format.enable": true,
+  "html.format.wrapAttributes": "force"
+}
